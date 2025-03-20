@@ -14,7 +14,7 @@ A React-based AI-powered trip planner that generates personalized travel itinera
 
 ## Technologies Used  
 - **Frontend:** React, Tailwind CSS, ShadCN  
-- **Backend:** Firebase (Authentication & Firestore)  
+- **Backend:** Firebase (Authentication & storing the trip details)  
 - **APIs:** Gemini API, VITE_MAPBOX  
 
 ## Installation  
